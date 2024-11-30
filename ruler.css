@@ -1,0 +1,34 @@
+#dummyText {
+    text-align: justify;
+    width: 800px;
+    margin: 0px auto;
+    box-sizing: border-box;
+    padding-left: 35px;
+    padding-right: 35px;
+}
+
+div.controlgroup {
+    padding: 12px;
+    border: 1px groove white;
+    font-weight: bold;
+    text-align: center;
+    width: auto;
+    margin: 12px;
+}
+
+canvas {
+    border: 1px solid Red;
+}
+
+div#tabPositionSlider {
+    width: 80%;
+    margin: 0px auto;
+}
+
+span.ui-checkboxradio-icon {
+    display: none;
+}
+
+.ui-controlgroup-vertical .ui-controlgroup-item {
+    text-align: center;
+}
