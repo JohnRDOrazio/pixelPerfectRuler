@@ -49,7 +49,7 @@ const pixelAdjustments = {
     } )(),
     'dpr_1.5': ( function* () {
       const pattern = [
-        0, 0.5, 0.2, 0.5, 0, 0.1, 0.5, 0.2
+        0, 0.4, 0.2, 0.6, 0, 0.1, 0.5, 0.2
       ];
       let index = 0;
 
